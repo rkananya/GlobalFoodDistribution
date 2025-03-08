@@ -1,0 +1,8 @@
+
+Shortest path from egmore to pallavaram: 1 2 4 , Total Distance: 15
+Shortest path from Egmore to Pallavaram: 1 3 4 , Total Distance: 3
+Operation: Added Delivery Path | ID: -1 | Details: Source: egmore (ID: 0), Destination: tambaram (ID: 1), Weight: 12
+Operation: Added Delivery Path | ID: -1 | Details: Source: tambaram (ID: 1), Destination: pallavaram (ID: 2), Weight: 2
+Operation: Added Delivery Path | ID: -1 | Details: Source: egmore (ID: 0), Destination: chromepet (ID: 3), Weight: 9
+Operation: Added Delivery Path | ID: -1 | Details: Source: chromepet (ID: 3), Destination: pallavaram (ID: 2), Weight: 1
+Operation: Shortest Path Query | ID: -1 | Details: Source: egmore (ID: 0), Destination: pallavaram (ID: 2), Distance: 10
